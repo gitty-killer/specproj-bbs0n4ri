@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-bbs0n4ri"",
-  ""goal"": ""report generator for inventory"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "specproj-bbs0n4ri",
+    "goal":  "report generator for inventory",
+    "language":  "go",
+    "template":  "go-cli"
 }
